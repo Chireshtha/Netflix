@@ -35,7 +35,7 @@ body{
     margin-left: 20px;
 }
 .banner{
-    background: url(../images/initial.jpg);
+    background: url(/images/initial.jpg);
     background-size: cover;
     background-position: center center;
     color: #fff;
